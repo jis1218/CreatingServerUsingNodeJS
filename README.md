@@ -28,4 +28,4 @@ response.write("<html><h1>하이루</h1><html>")
 ```
 
 ##### http Status code
-##### 200 - 성공, 403 - Forbidden, 404 - 찾을 수 없음(Not found), 408 - 요청시간 초과
+##### 200 - 성공, 400 - 잘못된 요청, 403 - Forbidden, 404 - 찾을 수 없음(Not found), 408 - 요청시간 초과
